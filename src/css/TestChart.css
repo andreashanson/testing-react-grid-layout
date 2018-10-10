@@ -1,0 +1,11 @@
+.TestChart {
+	color: white;
+}
+
+.widget-layout #myChart {
+	color: white;
+}
+
+#myChart {
+	padding: 10px;
+}

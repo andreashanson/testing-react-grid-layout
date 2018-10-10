@@ -1,0 +1,21 @@
+.layout {
+  	width: 100%;
+}
+
+.react-grid-item {
+	background: rgba(255,255,255,1);
+}
+
+.react-grid-item .react-resizable-handle::after {
+	width: 10px;
+	height: 10px;
+	right: 7px;
+	bottom: 7px;
+	border-right: 2px solid #d8d9da;
+	border-bottom:2px solid #d8d9da;
+}
+
+.card-body {
+	overflow-x: hidden;
+	overflow-y: auto;
+}

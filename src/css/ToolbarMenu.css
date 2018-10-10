@@ -1,0 +1,32 @@
+.ToolbarMenu {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding-left: 20px;
+	color: #FFF;
+	background: rgba(23,127,197, 0.8);
+
+}
+
+.btn img {
+	width: 25px;
+	margin-right: 5px;
+}
+
+.btn {
+	margin-bottom: 0;
+	color: #FFF;
+}
+
+.btn:hover {
+	color: #FFF;
+	background: rgba(0,131,199,0.8);
+
+}
+
+@media (min-width: 1500px) {
+	.btn-container {
+		margin-right: 20%;
+	}
+}

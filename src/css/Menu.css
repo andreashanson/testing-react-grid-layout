@@ -1,0 +1,30 @@
+.Menu {
+	height: 100%;
+	background: rgba(55, 55, 0, 0.4);
+	border-right: 2px solid #2f2f32;
+}
+
+.Menu ul {
+  list-style-type: none;
+  padding: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.Menu ul li {
+  width: 100%;
+}
+
+.Menu ul li span {
+  width: 100%;
+  text-align: left;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: white;
+}
+
+.Menu ul li span:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+}
+

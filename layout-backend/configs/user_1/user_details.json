@@ -1,0 +1,37 @@
+{
+  "name": "Andreas Hansson",
+  "accessable_widgets": [
+    {
+      "type": "map",
+      "name": "Map",
+      "w": 14,
+      "h": 6,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "type": "graf2",
+      "name": "Graf",
+      "w": 14,
+      "h": 6,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "type": "data-usage",
+      "name": "Data Usage",
+      "w": 14,
+      "h": 6,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "type": "connected-users",
+      "name": "Connected Users",
+      "w": 14,
+      "h": 6,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}
